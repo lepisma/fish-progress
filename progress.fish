@@ -1,5 +1,3 @@
-#!/usr/bin/env fish
-
 set -g progress_version 0.1.0
 
 function __progress_build_info -a total current -d "Build string showing completion info"
