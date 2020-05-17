@@ -3,7 +3,7 @@
 Simple progress bar for the [[https://fishshell.com/][fish shell]].
 
 ** Installation
-Install using =fisher add lepisma/fish-progress=.
+Install using =fisher lepisma/fish-progress=.
 
 ** Usage
 #+begin_src shell :exports both
