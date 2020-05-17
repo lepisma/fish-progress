@@ -19,5 +19,3 @@ function print_progress -a total current -d "Print one state of progress bar"
     echo -ne (string repeat -n $n_done "█")
     echo -ne (string repeat -n (math $width - $n_done) "—")
 end
-
-print_progress 100 34
